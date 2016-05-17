@@ -9,8 +9,8 @@ approvals:
     orgs:
       - zalando
     # a collaborator of the repo
-    collaborators: true
+    #collaborators: true
     # this guy
-    users:
-      - mfellner
-      - prayerslayer
+    #users:
+    #  - mfellner
+    #  - prayerslayer
