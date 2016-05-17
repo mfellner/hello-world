@@ -14,3 +14,8 @@ approvals:
     #users:
     #  - mfellner
     #  - prayerslayer
+commit:
+  message:
+    patterns:
+      - "^(?:(?:[a-zA-Z0-9_\\-]*|[a-zA-Z0-9_\\-]+\\/[a-zA-Z0-9_\\-]+)#|GH-)\\d+$"
+      - "^#?[A-Z]+-[0-9]+"
