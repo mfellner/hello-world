@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print("Hello, Foooooo!")
+print("Hello, Fooooo!")
